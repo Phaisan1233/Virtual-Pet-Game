@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Oct 15 20:10:17 NZDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016d-ce40-d00d-000006fec2c8 
+on database directory /Users/phaisan/Downloads/P43-3/UserDB with class loader sun.misc.Launcher$AppClassLoader@61bbe9ba 
+Loaded from file:/Users/phaisan/Downloads/P43-3/db-derby-10.14.2.0-bin%202/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_161-b12
+user.dir=/Users/phaisan/Downloads/P43-3
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
